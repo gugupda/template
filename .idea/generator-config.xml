@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="bs_user">
+          <value>
+            <Config>
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="BsUserDao" />
+              <option name="daoPackage" value="cn.cai.template.db.dao" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/src/main/java/cn/cai/template/db/dao" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="BsUser" />
+              <option name="modelPackage" value="cn.cai.template.db.entity" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/src/main/java/cn/cai/template/db/entity" />
+              <option name="name" value="bs_user" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$" />
+              <option name="tableName" value="bs_user" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="mapper" />
+              <option name="xmlTargetFolder" value="C:\Users\99235\IdeaProjects\template-api\src\main\resources\mapper" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
