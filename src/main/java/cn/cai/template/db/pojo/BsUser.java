@@ -1,4 +1,4 @@
-package cn.cai.template.db.entity;
+package cn.cai.template.db.pojo;
 
 import java.util.Date;
 

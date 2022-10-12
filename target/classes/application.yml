@@ -23,3 +23,9 @@ spring:
       test-while-idle: true
       test-on-borrow: false
       test-on-return: false
+mybatis:
+  mapper-locations: classpath*:mapper/*.xml
+  type-aliases-package: cn.cai.template.db.pojo
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
