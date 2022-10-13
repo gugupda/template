@@ -1,7 +1,10 @@
 package cn.cai.template.db.pojo;
 
+import io.swagger.annotations.ApiModel;
+
 import java.util.Date;
 
+@ApiModel("用户")
 public class BsUser {
     private String id;
 
